@@ -40,9 +40,9 @@ createPlatform(200, 650, 100, 700);
 
 
     // TODO 3 - Create Collectables
-    createCollectable("database",400,500);
-    createCollectable("database",1050, 250);
-    createCollectable("database",1300, 250);
+    createCollectable("database",425,530);
+    createCollectable("database",1050, 345);
+    createCollectable("database",1200, 360);
 
 
 
